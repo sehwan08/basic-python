@@ -1,0 +1,4 @@
+Math: 0
+English: 100
+Korean: 70
+Coding: 90
